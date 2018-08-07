@@ -1,0 +1,22 @@
+{
+  "name": "nodeoku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomastognacci/Nodeoku.git"
+  },
+  "author": "Thomas Tognacci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomastognacci/Nodeoku/issues"
+  },
+  "homepage": "https://github.com/thomastognacci/Nodeoku#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
